@@ -1,0 +1,2 @@
+
+"Typical Jew behavior." "The west has fallen, millions must die," "The white race is being exterminated." "Homosexuality is destroying this generation." "Women ☕." As he was sucking on his juice box and eating his Pocky sticks during recess, these were the thoughts running around his head. He was always under the stairs, alone, watching the "libtards getting owned by facts and logic" compilation on his laptop. 

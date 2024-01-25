@@ -1,0 +1,6 @@
+[[Power Rule]]
+[[Sum of Derivatives]]
+[[Product Rule]]
+[[Quotient Rule]]
+[[Chain Rule]]
+[[Derivative of an exponential function]]

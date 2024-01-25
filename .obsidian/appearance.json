@@ -1,0 +1,12 @@
+{
+  "accentColor": "#92611c",
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "frontmatter-tweaks",
+    "typography-fixes",
+    "[editor] Normalize Links",
+    "[editor] Typography fixes",
+    "[plugin] MySnippets tweaks"
+  ]
+}

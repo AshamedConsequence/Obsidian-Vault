@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e98aefcc73e9715d","type":"text","text":"What did you enjoy? \nI enjoyed the narrative structure of the essay. It allows me to get far more immersed into the author's life, her story, and the struggles she went through to arrive here at UCLA, compared to a list style structure. The pop culture references were also appreciated. \n\nVery little in this essay was confusing. Every paragraph and sentence flowed into one another.  \n\n\nI do believe that the opening is the best part of the essay, just because of how strong the comparison between Cate and Elle Wood is, and how important that comparison is to Cate's real life. \n\nCate's resilience and ability to bounce back after such a strong blow caused by the pandemic really struck a chord with me. I relate with having to balance an academic and professional life, and the fact that she was able to excel in both is admirable.  \n\nTell us what you think. \n\nHow could these be improved?\n\n","x":-40,"y":-480,"width":426,"height":740},
+		{"id":"74065791daafd55e","type":"file","file":"assets/cate.pdf","x":-800,"y":-500,"width":700,"height":800}
+	],
+	"edges":[
+		{"id":"830df8cd2f859105","fromNode":"e98aefcc73e9715d","fromSide":"left","toNode":"74065791daafd55e","toSide":"right"}
+	]
+}

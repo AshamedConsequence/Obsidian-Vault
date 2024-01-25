@@ -1,0 +1,65 @@
+{
+  "logoType": "imagePath",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "assets/cookie-enjoyer.png",
+    "imageLink": ""
+  },
+  "logoScale": 3,
+  "iconColorType": "default",
+  "wordmark": "Obsidian Starter",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 8,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 8,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "College courses/Math/Calculus/32A/Lecture 7.md",
+      "timestamp": 1706126398130
+    },
+    {
+      "filepath": "College courses/Music/Music 15/Lecture 6.md",
+      "timestamp": 1706126394512
+    },
+    {
+      "filepath": "College courses/Math/Calculus/32A/Lecture 6.md",
+      "timestamp": 1706123545779
+    },
+    {
+      "filepath": "College courses/Math/Calculus/31B/Lecture 7.md",
+      "timestamp": 1706123545194
+    },
+    {
+      "filepath": "College courses/Comp Sci/CS32/Lecture 1.md",
+      "timestamp": 1706123544621
+    },
+    {
+      "filepath": "College courses/Math/Calculus/32A/Lecture 4.md",
+      "timestamp": 1706123544339
+    },
+    {
+      "filepath": "College courses/Music/Music 15/Lecture 1.md",
+      "timestamp": 1706123544055
+    },
+    {
+      "filepath": "College courses/Math/Calculus/31A/Limits/Limit Law Inverse to Infinity.md",
+      "timestamp": 1706123543830
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": false,
+  "omnisearch": true
+}
